@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "indicator_11_5_1_disaster_preparedness_nakuru",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nakuru Fire & Rescue Centre", "initiative": "Constructed 1 Fire Station equipped with an underground water storage for enhanced disaster preparedness and response", "reference": "https:\/\/nakuru.go.ke\/wp-content\/uploads\/2024\/01\/5.-Infrastructure-Sub-Sector-Report-2023-Final-1.pdf", "year": "2022-01-01" }, "geometry": { "type": "Point", "coordinates": [ 36.06968905030854, -0.285864014504923 ] } }
+]
+}
