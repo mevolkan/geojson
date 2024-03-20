@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "indicator_11_2_1_slum_improvement_nakuru",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kwa Jack Railway Matatu Stage", "initiative": "Construction of New Nakuru Bus Park", "reference": null, "year": "2022" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.074535689199408, -0.282015663627444 ], [ 36.074402908283581, -0.28172967742259 ], [ 36.074837416531018, -0.281619622390128 ], [ 36.075353779521649, -0.281948213046638 ], [ 36.074762309186923, -0.282164144044425 ], [ 36.074612094498747, -0.281985766263925 ], [ 36.074535689199408, -0.282015663627444 ] ] ] } },
+{ "type": "Feature", "properties": { "name": "Bondeni Bus Park", "initiative": "Construction of a New Bus Park and Market at Bondeni", "reference": null, "year": "2023" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.078526465453649, -0.291056079804328 ], [ 36.08035274552757, -0.291066515555808 ], [ 36.080404924958252, -0.291744839381394 ], [ 36.078526465453649, -0.292130962156174 ], [ 36.078526465453649, -0.291056079804328 ] ] ] } },
+{ "type": "Feature", "properties": { "name": "Nakuru Railway Matatu Stage", "initiative": "Construction of New Nakuru Bus Park", "reference": null, "year": "2022" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.074402908283581, -0.28172967742259 ], [ 36.074535689199408, -0.282015663627444 ], [ 36.074180227270219, -0.282154755740252 ], [ 36.074236557778292, -0.282342521822195 ], [ 36.07215232897974, -0.282933984960451 ], [ 36.071983337455542, -0.282342521822195 ], [ 36.074402908283581, -0.28172967742259 ] ] ] } },
+{ "type": "Feature", "properties": { "name": "Kenya Farmers Bus Stage", "initiative": "Temporary Relocation of Matatu Stage to Kenya Farmers Area", "reference": null, "year": "2022" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.063853328448062, -0.285164336953585 ], [ 36.064349033039548, -0.285059979384286 ], [ 36.064589058420694, -0.284611241825522 ], [ 36.064500353388532, -0.284230336674735 ], [ 36.063722879871356, -0.284454705463695 ], [ 36.063853328448062, -0.285164336953585 ] ] ] } }
+]
+}
