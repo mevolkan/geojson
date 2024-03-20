@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "indicator_11_5_1_firehydrants_nakuru",
+"name": "Indicator 11.5.1 Firehydrants Nakuru",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ 36.083484154642662, -0.297919272392614 ] } },

@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "indicator_6_2_1_existing_sewarage_network",
+"name": "Indicator 6.2.1 Existing Sewarage Network",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "objectid": 1184, "material": "PVC", "year_const": "Existing", "diameter": "DN 225", "constructe": null, "st_length_": 22.062753108100001 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 36.052589522287917, -0.272586363037883 ], [ 36.052583599695282, -0.27278446536557 ] ] ] } },

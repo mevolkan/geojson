@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "indicator_11_2_1_slum_improvement_nakuru",
+"name": "Indicator 11.2.1 Slum Improvement Nakuru",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "name": "Kwa Jack Railway Matatu Stage", "initiative": "Construction of New Nakuru Bus Park", "reference": null, "year": "2022" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 36.074535689199408, -0.282015663627444 ], [ 36.074402908283581, -0.28172967742259 ], [ 36.074837416531018, -0.281619622390128 ], [ 36.075353779521649, -0.281948213046638 ], [ 36.074762309186923, -0.282164144044425 ], [ 36.074612094498747, -0.281985766263925 ], [ 36.074535689199408, -0.282015663627444 ] ] ] } },
