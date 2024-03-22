@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "indicator_3_1_1_maternal_initiatives_nakuru",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Bondeni", "TYPE": "Maternity", "TELEPHONE": "051-", "initiative": "Equiping and Upgrade to Level 4;Pilot of the Maternal Care Digitization program dubbed Mama's Hub", "reference": "https:\/\/nakuru.go.ke\/nakuru-to-digitize-maternal-health-information-through-the-mama-hub-application\/", "year": null }, "geometry": { "type": "Point", "coordinates": [ 36.078986955096326, -0.293223900811497 ] } },
+{ "type": "Feature", "properties": { "NAME": "Annex", "TYPE": "General", "TELEPHONE": "051-2215580", "initiative": "Pilot of the Maternal Care Digitization program dubbed Mama's Hub", "reference": "https:\/\/nakuru.go.ke\/nakuru-to-digitize-maternal-health-information-through-the-mama-hub-application\/", "year": null }, "geometry": { "type": "Point", "coordinates": [ 36.080872039101664, -0.279776344040855 ] } },
+{ "type": "Feature", "properties": { "NAME": "Provisional General", "TYPE": "General", "TELEPHONE": null, "initiative": "Inclusion of 25 bed Capacity Mother and Baby Wing", "reference": "https:\/\/nation.africa\/kenya\/counties\/nakuru\/how-nakuru-reduced-maternal-mortality-3719426", "year": "2018-12-31" }, "geometry": { "type": "Point", "coordinates": [ 36.069610568277355, -0.273697430560387 ] } }
+]
+}
