@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "nakuru_microfinance_institutions",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Naheco", "TELEPHONE": "211988", "BOX": "12118", "PROJECTS": "Housing and micro enterprises", "SECURITY": "Shares and group members", "COVERAGE": "Nakuru Municipality" }, "geometry": { "type": "Point", "coordinates": [ 36.061629301879549, -0.298597276297283 ] } },
+{ "type": "Feature", "properties": { "NAME": "Faulu Kenya", "TELEPHONE": null, "BOX": null, "PROJECTS": "Micro enterprises", "SECURITY": "Group members", "COVERAGE": "Nakuru Municipality" }, "geometry": { "type": "Point", "coordinates": [ 36.056502572941348, -0.291647613567516 ] } },
+{ "type": "Feature", "properties": { "NAME": "Jamii Bora", "TELEPHONE": "0733 373661", "BOX": "15564", "PROJECTS": "Micro enterprises", "SECURITY": "Shares and group members", "COVERAGE": "Nakuru Municipality" }, "geometry": { "type": "Point", "coordinates": [ 36.077354175184752, -0.291887558179881 ] } },
+{ "type": "Feature", "properties": { "NAME": "Kenya Women Finance Trust", "TELEPHONE": "212429", "BOX": null, "PROJECTS": "Micro enterprises", "SECURITY": "Group members", "COVERAGE": "Rift Valley Province" }, "geometry": { "type": "Point", "coordinates": [ 36.065854906218505, -0.28876868280695 ] } },
+{ "type": "Feature", "properties": { "NAME": "Mwariki Estate", "TELEPHONE": "0733 225676", "BOX": "1200", "PROJECTS": "Housing", "SECURITY": "Title deed", "COVERAGE": "Mwariki Estate" }, "geometry": { "type": "Point", "coordinates": [ 36.067854808666894, -0.315383752116117 ] } },
+{ "type": "Feature", "properties": { "NAME": "SEPP", "TELEPHONE": "0721 244339", "BOX": null, "PROJECTS": "Micro enterprises", "SECURITY": "Group members", "COVERAGE": "Nakuru Municipality" }, "geometry": { "type": "Point", "coordinates": [ 36.117896167049686, -0.293187056729868 ] } },
+{ "type": "Feature", "properties": { "NAME": "Kenya Women", "TELEPHONE": null, "BOX": null, "PROJECTS": "Micro enterprises", "SECURITY": "Group members", "COVERAGE": "Nakuru Municipality" }, "geometry": { "type": "Point", "coordinates": [ 36.125339646240477, -0.296615889739974 ] } },
+{ "type": "Feature", "properties": { "NAME": "Kenya Pride", "TELEPHONE": "0722 601304", "BOX": null, "PROJECTS": "Micro enterprises", "SECURITY": "Group members", "COVERAGE": "Nakuru Municipality" }, "geometry": { "type": "Point", "coordinates": [ 36.064699200842462, -0.302948945189351 ] } },
+{ "type": "Feature", "properties": { "NAME": "SEMP - NCCK", "TELEPHONE": "211465", "BOX": "1600", "PROJECTS": "Micro enterprises", "SECURITY": "Group members", "COVERAGE": "Nakuru District" }, "geometry": { "type": "Point", "coordinates": [ 36.089667522894572, -0.285482118072676 ] } }
+]
+}

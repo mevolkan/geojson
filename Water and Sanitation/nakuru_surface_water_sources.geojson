@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "nakuru_surface_water_sources",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 1, "__gid": 1.0, "____gid": 1.0, "id": null, "name": "Malewa", "dsgn_capct": "2200 m3", "oprtn_capc": "1500 m3", "descriptio": "Water drives turbines to generate power to pump water" }, "geometry": { "type": "Point", "coordinates": [ 36.40136169892876, -0.443578621516451 ] } },
+{ "type": "Feature", "properties": { "gid": 2, "__gid": 2.0, "____gid": 2.0, "id": null, "name": "Ndondori", "dsgn_capct": null, "oprtn_capc": null, "descriptio": "Intake at Mireroni river" }, "geometry": { "type": "Point", "coordinates": [ 36.210159922023927, -0.269340988858113 ] } }
+]
+}

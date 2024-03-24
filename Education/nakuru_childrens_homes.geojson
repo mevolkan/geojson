@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "nakuru_childrens_homes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LOCID": 9, "WAYPOINTID": "039", "GPSDATE": "20060714", "DESCRIPT": "Home", "NAME": "Bethesda" }, "geometry": { "type": "Point", "coordinates": [ 36.068960000023729, -0.308649999686519 ] } },
+{ "type": "Feature", "properties": { "LOCID": 15, "WAYPOINTID": "045", "GPSDATE": "20060714", "DESCRIPT": "Home and school", "NAME": "Christian Children Fund" }, "geometry": { "type": "Point", "coordinates": [ 36.041300000025352, -0.301989999693303 ] } },
+{ "type": "Feature", "properties": { "LOCID": 16, "WAYPOINTID": "046", "GPSDATE": "20060714", "DESCRIPT": "Home", "NAME": "St Francis" }, "geometry": { "type": "Point", "coordinates": [ 36.048870000024905, -0.305979999689249 ] } },
+{ "type": "Feature", "properties": { "LOCID": 17, "WAYPOINTID": "047", "GPSDATE": "20060714", "DESCRIPT": "Home", "NAME": "Holy Family Children" }, "geometry": { "type": "Point", "coordinates": [ 36.057070000024432, -0.328269999666596 ] } },
+{ "type": "Feature", "properties": { "LOCID": 24, "WAYPOINTID": "054", "GPSDATE": "20060714", "DESCRIPT": "Home and school", "NAME": "Christian Ministries" }, "geometry": { "type": "Point", "coordinates": [ 36.061920000024138, -0.301479999693811 ] } },
+{ "type": "Feature", "properties": { "LOCID": 1, "WAYPOINTID": "001", "GPSDATE": "20060717", "DESCRIPT": "Home", "NAME": "Hudson and Upendo" }, "geometry": { "type": "Point", "coordinates": [ 36.088740000022632, -0.295979999699391 ] } },
+{ "type": "Feature", "properties": { "LOCID": 8, "WAYPOINTID": "008", "GPSDATE": "20060717", "DESCRIPT": "Home", "NAME": "SCAN" }, "geometry": { "type": "Point", "coordinates": [ 36.0891300000226, -0.290629999704816 ] } },
+{ "type": "Feature", "properties": { "LOCID": 9, "WAYPOINTID": "009", "GPSDATE": "20060717", "DESCRIPT": "Home", "NAME": "YMCA" }, "geometry": { "type": "Point", "coordinates": [ 36.093440000022376, -0.290649999704808 ] } },
+{ "type": "Feature", "properties": { "LOCID": 17, "WAYPOINTID": "017", "GPSDATE": "20060717", "DESCRIPT": "Home", "NAME": "St Stephen" }, "geometry": { "type": "Point", "coordinates": [ 36.074190000023442, -0.297599999697748 ] } },
+{ "type": "Feature", "properties": { "LOCID": 26, "WAYPOINTID": "026", "GPSDATE": "20060717", "DESCRIPT": "Home", "NAME": "Mwangaza Lakeview" }, "geometry": { "type": "Point", "coordinates": [ 36.074470000023418, -0.309519999685648 ] } },
+{ "type": "Feature", "properties": { "LOCID": 0, "WAYPOINTID": null, "GPSDATE": null, "DESCRIPT": "Home", "NAME": "Fildelphia" }, "geometry": { "type": "Point", "coordinates": [ 36.073129150443791, -0.303541271114198 ] } }
+]
+}

@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "nakuru_banks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Barclays Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru East" }, "geometry": { "type": "Point", "coordinates": [ 36.071502758941321, -0.284187558981977 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Kenya Commercial Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.070809707822512, -0.284830360699214 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "National Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.069455688934582, -0.28436935708678 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Standard Chartered Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.070194231768077, -0.28417449663892 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Co-perative Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.065783162394361, -0.284972006868817 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Housing Finance", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.065461598130291, -0.28504451496316 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Post Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru Town" }, "geometry": { "type": "Point", "coordinates": [ 36.065147292386847, -0.285218288748669 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Barclays Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru West" }, "geometry": { "type": "Point", "coordinates": [ 36.063277818537166, -0.285704097841805 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Post Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Bondeni" }, "geometry": { "type": "Point", "coordinates": [ 36.077233147295274, -0.299870046592036 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Family Finance", "BOX": 519, "PHONE": "216083", "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Kenyatta Avenue" }, "geometry": { "type": "Point", "coordinates": [ 36.072881170293989, -0.284307341447397 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Equity", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.074239686743432, -0.283012015168382 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Family Finance", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Langalanga Stage" }, "geometry": { "type": "Point", "coordinates": [ 36.075760874361492, -0.285562593880199 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Kenya Commercial Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru West" }, "geometry": { "type": "Point", "coordinates": [ 36.066727720628556, -0.285460671362353 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "K-Rep", "BOX": 15222, "PHONE": "210171", "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.073469998628497, -0.284283341391884 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "NIS", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": null }, "geometry": { "type": "Point", "coordinates": [ 36.064052272457552, -0.285912444994465 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "SASA", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.064089020438196, -0.286100180957558 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Equity", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.072172051499422, -0.284500416022037 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Bank of Baroda Kenya Ltd", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.064157704257227, -0.286113540926093 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Diamond Trust Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.06787113785569, -0.285173144859552 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "African Banking Corporation", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.067994049751569, -0.285137254917727 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "EFC Stanbic Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.070658426965274, -0.284511306427845 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Pan African Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.071458738061281, -0.285485745812279 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Dubai Bank", "BOX": 0, "PHONE": null, "EMAIL": null, "NR_STAFF": 0, "BRANCH": "Nakuru" }, "geometry": { "type": "Point", "coordinates": [ 36.064110494408482, -0.286125831390263 ] } }
+]
+}
