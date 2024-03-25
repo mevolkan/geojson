@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_polling_stations",
+"name": "Polling Stations",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "ID": 0, "NAME": "Kenyatta Primary School", "REGVOTER97": 0, "REGVOTER02": 0, "REGVOTER07": 6238, "POLSTATION": null, "STAT_NR": 11, "MALE": 3899, "FEMALE": 2339 }, "geometry": { "type": "Point", "coordinates": [ 36.071346441059006, -0.294424070974597 ] } },

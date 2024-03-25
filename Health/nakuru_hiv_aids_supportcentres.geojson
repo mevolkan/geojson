@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_hiv_aids_supportcentres",
+"name": "HIV/AIDS Support entres",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "ID": 0, "NAME": "Love and Hope", "BOX": 14320, "TELEPHONE": "0722 275643", "LOCATION": "Hekima", "ACTIVITY": "Home-based care, Counselling,HIV support Groups", "AREA_COVER": null }, "geometry": { "type": "Point", "coordinates": [ 36.084709596346116, -0.303692567903431 ] } },

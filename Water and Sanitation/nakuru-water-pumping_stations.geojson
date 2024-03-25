@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru-water-pumping_stations",
+"name": "Water Pumping Stations",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Name": "Nairobi Road Pumping Station", "Source": "NakInfo" }, "geometry": { "type": "Point", "coordinates": [ 36.091287351533516, -0.285213878496715 ] } },

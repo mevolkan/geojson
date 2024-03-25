@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "faultlines",
+"name": "Faultlines",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Shape_Leng": 0.00338214973, "Type": 1, "Name": null, "Shape_Le_1": 376.79128963300002, "Source": "s125000\/Geology map" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 36.130466227462762, -0.380650647501864 ], [ 36.129410350265076, -0.380530922683678 ], [ 36.127105547327048, -0.380269581976604 ] ] ] } },

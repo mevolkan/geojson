@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_surface_water_sources",
+"name": "Surface Water Sources",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "gid": 1, "__gid": 1.0, "____gid": 1.0, "id": null, "name": "Malewa", "dsgn_capct": "2200 m3", "oprtn_capc": "1500 m3", "descriptio": "Water drives turbines to generate power to pump water" }, "geometry": { "type": "Point", "coordinates": [ 36.40136169892876, -0.443578621516451 ] } },

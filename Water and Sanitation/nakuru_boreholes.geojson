@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_boreholes",
+"name": "Boreholes",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "gid": 8, "id": "O7A", "location": "Olbanita", "borehole_n": "7A", "ownership": "NAWASSCO", "power_sour": "Electricity", "pumping_ho": "24 Hours", "pump_sz": "DN 100", "pmp_typ": "Submersible", "m_serial": "1012834", "p_serial": "10040001", "p_make": "Grundfos SP60-20", "m_make": "Tesla 6GF", "p_model": "A14A00020", "m_model": "Model B", "m_rating": "37Kw\/80A", "p_rating": "60m3\/Hr", "p_head": "160m", "m_yr_inst": 2017.0, "p_yr_inst": 2010.0, "remarks": "Serviceable", "drop_pp_d": "DN 62", "dsgn_capac": 0.0, "globalid": "{9BC9476F-BDF4-42A6-9F1D-1725EF96C5FC}", "created_da": "2023-04-14", "created_us": "portaladmin", "last_edite": "2024-01-04", "last_edi_1": "portaladmin", "waterprod_": "408", "waterprod1": "17", "water_rest": "157", "elevation_": "5", "average_kw": "10235", "average_m3": "0.99", "casing_dia": "250", "total_dyna": "178", "storage_ta": "500", "pump_water": "187", "field": 0, "NAME": null, "STATUS": null, "Capacity": null, "Check_": null, "Source": null }, "geometry": { "type": "Point", "coordinates": [ 36.117010299856027, -0.147093199727206 ] } },

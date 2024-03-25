@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_dumping_sites",
+"name": "Dumping Sites",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "NAME": "Refuse disposal site London", "DSite_ID": null, "Y": -0.271728, "X": 36.048965, "Latitude": 9969929.0, "Longitude": 171475.0, "Source": "JICA" }, "geometry": { "type": "Point", "coordinates": [ 36.049767133338399, -0.274435045037713 ] } },

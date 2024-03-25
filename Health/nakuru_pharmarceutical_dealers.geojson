@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_pharmarceutical_dealers",
+"name": "Pharmarceutical Dealers",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "NAME": "Bell", "BOX": 3319, "TELEPHONE": 512215415, "E_MAIL": "happygo@africanonline.co.ke", "STREET": "Moi Rd", "LOCATION": "Opp.Gilani butch", "BUSIN_REG": "197891", "NUMB_EMPLO": 2, "ENRO_PHARM": 1, "COUN_ATTEN": 1, "DRUG_DISPE": "Human", "TYPE": "Retailer", "NUMB_COMP": 2, "CONN_INTER": "Yes", "INT_SER_PR": "African Online", "COMP_LITER": 1, "YEAR": 1993, "REG_NUMB": null, "PHARM_CERT": "1228" }, "geometry": { "type": "Point", "coordinates": [ 36.070774502776956, -0.28511338420706 ] } },

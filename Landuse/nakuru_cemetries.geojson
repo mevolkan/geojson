@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_cemetries",
+"name": "Cemetries",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "ID": 0, "NAME": "North Cementry", "AREA_ACRES": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.07296968797916, -0.278580115013625 ], [ 36.074631601877265, -0.278149798667624 ], [ 36.075201511596113, -0.280422210428112 ], [ 36.073520993357739, -0.280852518989805 ], [ 36.07296968797916, -0.278580115013625 ] ] ] ] } },
