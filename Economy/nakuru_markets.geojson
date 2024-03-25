@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_markets",
+"name": "Markets",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "TYPE": "Informal - retail", "ITEM": "Food", "DETAILS": "Vegetables, chips and roasted maize", "SECURITY": "Safe", "NAME": "Mahindi Choma", "AREA": 0.13, "CLEAN": "Dirty", "AREA_SQ_KM": 0.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.078754265863928, -0.307252436959549 ], [ 36.078355521324077, -0.306406059168171 ], [ 36.078446165130025, -0.306358062872889 ], [ 36.078856597748796, -0.307203616614757 ], [ 36.078754265863928, -0.307252436959549 ] ] ] ] } },

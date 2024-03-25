@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_ngos",
+"name": "NGOs",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "ID": 0, "NAME": "Red Cross Society of Kenya", "LOCATION": "Next to mama ngina primary school", "BOX": 0, "TOWN": null, "E_MAIL": null, "CON_PERSON": null, "TEL_NUMBER": null, "FAX": null }, "geometry": { "type": "Point", "coordinates": [ 36.06467945474629, -0.294332844380848 ] } },

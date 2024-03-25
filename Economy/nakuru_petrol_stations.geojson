@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_petrol_stations",
+"name": "Petrol Stations",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "ID": 0, "NAME": "Hyrax", "COMPANY": "Shell", "RESTAURANT": "Yes", "TYPE_OF_FU": "Super, Unleaded, Regular, Diesel, Kerosene", "CATEGORY": 0, "WASH": "Yes", "SHOP": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 36.094331173100123, -0.282254687802342 ] } },

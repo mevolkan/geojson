@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_informal_industries",
+"name": "Informal Industries",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "NAME": "Burma Market", "PRODUCTS": "Metal Ware", "MARKET": "Local", "BOX": null, "TELEPHONE": null, "E_MAIL": null, "CATEG_CODE": 0, "MKT_CODE": 1, "LABOUR_COD": 0, "PROD_CATE": "Jua Kali", "LABOUR": null, "Type": "Informal" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.082467536796976, -0.297417948369023 ], [ 36.082467651765441, -0.296980133192578 ], [ 36.082484925731229, -0.2963927656394 ], [ 36.082735159013964, -0.2963394769251 ], [ 36.082712303460042, -0.297409789596483 ], [ 36.082467536796976, -0.297417948369023 ] ] ] ] } },
