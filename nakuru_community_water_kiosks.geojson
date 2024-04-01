@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "nakuru_community_water_kiosks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ 36.043720748325406, -0.298979456153706 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ 36.05734137074657, -0.302643165206506 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ 36.060821898700965, -0.30955760463667 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ 36.048137900318736, -0.296522521960963 ] } }
+]
+}

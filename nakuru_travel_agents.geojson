@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "nakuru_travel_agents",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Select", "LOCATION": "Dimples", "SERVICES": "Air tickets", "PHONE": "051-2214030", "E_MAIL": null, "BOX": null, "CELLPHONE": null, "SERVICE_2": null, "SERVICE_3": "Otherer services", "PHONE_2": "051-2214031" }, "geometry": { "type": "Point", "coordinates": [ 36.064590665978677, -0.285972170875 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Magical Migration", "LOCATION": "National Bank", "SERVICES": "Air tickets", "PHONE": "051-2211139", "E_MAIL": "magicalmigrationsafaris@africa", "BOX": "13798-20100", "CELLPHONE": "0733843016", "SERVICE_2": null, "SERVICE_3": "Other serervices", "PHONE_2": null }, "geometry": { "type": "Point", "coordinates": [ 36.069719345838358, -0.284211109096919 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Taylers", "LOCATION": "National Bank", "SERVICES": "Air tickets", "PHONE": "051-2211173 or 22170", "E_MAIL": "taylors@multitech.com.", "BOX": "527", "CELLPHONE": null, "SERVICE_2": null, "SERVICE_3": "Other srevices", "PHONE_2": null }, "geometry": { "type": "Point", "coordinates": [ 36.069760498202967, -0.284363168271683 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Shoor", "LOCATION": "Posta", "SERVICES": "Air tickets", "PHONE": null, "E_MAIL": null, "BOX": null, "CELLPHONE": null, "SERVICE_2": null, "SERVICE_3": "Other services", "PHONE_2": null }, "geometry": { "type": "Point", "coordinates": [ 36.070542900477498, -0.285241104386173 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Crater", "LOCATION": "InderSingh", "SERVICES": "Air tickets", "PHONE": "051-2215019", "E_MAIL": "crtrv@multitecweb.com", "BOX": "2631", "CELLPHONE": null, "SERVICE_2": "Car Hire", "SERVICE_3": "Othe services", "PHONE_2": null }, "geometry": { "type": "Point", "coordinates": [ 36.072650688217621, -0.284481399542015 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Famous", "LOCATION": "Sita", "SERVICES": "Air tickets", "PHONE": "051-2213760", "E_MAIL": "nblanket@multitechweb.com.", "BOX": null, "CELLPHONE": "0721586685", "SERVICE_2": "Car Hire", "SERVICE_3": "Other services", "PHONE_2": null }, "geometry": { "type": "Point", "coordinates": [ 36.115618971193754, -0.289127006917931 ] } },
+{ "type": "Feature", "properties": { "ID": 0, "NAME": "Pega", "LOCATION": "Pioneer", "SERVICES": "Air tickets", "PHONE": "051-2210379 or 22112", "E_MAIL": "Pega@africanonline.co.ke.", "BOX": null, "CELLPHONE": "0722776094 or 072274344", "SERVICE_2": "Car Hire", "SERVICE_3": "Othersr service", "PHONE_2": null }, "geometry": { "type": "Point", "coordinates": [ 36.075315677418772, -0.286165861561694 ] } }
+]
+}

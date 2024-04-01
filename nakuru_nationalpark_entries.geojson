@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "nakuru_nationalpark_entries",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "NAME": "Lanet Gate" }, "geometry": { "type": "Point", "coordinates": [ 36.131212315743582, -0.310617383222465 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "NAME": "Main Gate" }, "geometry": { "type": "Point", "coordinates": [ 36.082094048970134, -0.307853689387955 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "NAME": "Nderit Gate" }, "geometry": { "type": "Point", "coordinates": [ 36.155002405245973, -0.420938166181291 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "NAME": "Pwani Gate" }, "geometry": { "type": "Point", "coordinates": [ 36.041340126029695, -0.374176894316863 ] } }
+]
+}

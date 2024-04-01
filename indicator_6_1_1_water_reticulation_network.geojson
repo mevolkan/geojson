@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "Indicator 6.1.1 Water Reticulation Network",
+"name": "Water Reticulation Network",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": 5119.0, "material": "HDPE", "diameter": "DN 40", "length": null, "funded_by": null, "year_insta": "Existing", "name": null, "category": null, "class": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 36.11760950703961, -0.23781285924344 ], [ 36.118444817695057, -0.23696082838851 ] ] ] } },
