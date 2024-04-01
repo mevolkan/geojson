@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_public_toilets",
+"name": "Public Toilets",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "ID": 0, "NAME": "Top Market" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.075419751760727, -0.284639110468297 ], [ 36.075570923305726, -0.284601437986266 ], [ 36.075582463687716, -0.284645049987327 ], [ 36.07542943349096, -0.284684652225498 ], [ 36.075419751760727, -0.284639110468297 ] ] ] ] } },

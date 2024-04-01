@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_waste_transfer_stations",
+"name": "Waste Transfer Stations",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "TYPE": "Chamber", "FUNDED_BY": "WWF", "CONDITION": null, "EMPTIED": null, "NAME": "WWF", "IDENT": null, "LAT": 0.0, "LONG": 0.0, "Y_PROJ": 0.0, "X_PROJ": 0.0, "COMMENT": null, "DISPLAY": null, "SYMBOL": null, "UNUSED1": null, "DIST": 0.0, "PROX_INDEX": null, "COLOR": null, "ALTITUDE": 0.0, "DEPTH": 0.0, "WPT_CLASS": null, "SUB_CLASS": null, "ATTRIB": null, "LINK": null, "STATE": null, "COUNTRY": null, "CITY": null, "ADDRESS": null, "FACILITY": null, "CROSSROAD": null, "UNUSED": null, "ETE": null, "DTYPE": null, "MODEL": null, "FILENAME": null, "Id": null, "Name_2": null, "layer": "nk_ref_trans_sta" }, "geometry": { "type": "Point", "coordinates": [ 36.080647582904383, -0.307744821123995 ] } },
