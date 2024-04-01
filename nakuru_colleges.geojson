@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "nakuru_colleges",
+"name": "Colleges",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "NAME": "Mwangaza", "TEL": 210305, "TEACHERS": 25, "BOYS": 240, "GIRLS": 360, "FUNDING": "Church", "CURRICULUM": "PITMAN", "BOARDING": "No", "TYPE": "College", "CLASSES": 0, "TOTAL": 600, "TEACH2PUP": 24, "AREA": 2652.96, "BOX": 4021, "MEANSCORE": 0, "PERIMETER": 209.641, "ACRES": 0.656, "HECTARES": 0.265 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.074986271897039, -0.303646760579116 ], [ 36.074645940724416, -0.303803085864949 ], [ 36.074478655536659, -0.303342598482639 ], [ 36.074944830851607, -0.303134535198012 ], [ 36.074986271897039, -0.303646760579116 ] ] ] ] } },
